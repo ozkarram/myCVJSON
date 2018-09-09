@@ -9,47 +9,74 @@
 	"experience": [
 		{
 			"companyName": "Globant",
-			"companyPhoto": "",
-			"position": "",
-			"startDate": "",
+			"companyPhoto": "https://media.licdn.com/dms/image/C510BAQEqv28oomnYLQ/company-logo_200_200/0?e=1544659200&v=beta&t=YzT7WtNXac17Orrum_tznnHYPxppHtQc_EmrDWN4hAQ",
+			"position": "Android Developer",
+			"startDate": "24-11-2014",
 			"endDate": "",
 			"description": "",
 			"link": ""
 		},
 		{
-			"companyName": "Globant",
-			"companyPhoto": "",
-			"position": "",
-			"startDate": "",
+			"companyName": "Lending Club",
+			"companyPhoto": "https://media.licdn.com/dms/image/C560BAQGbZ9PqCvP53A/company-logo_200_200/0?e=1544659200&v=beta&t=W9v2mlZfHC4T5BjFqjIFjEZpNzOI3qSx_EjTpYbM-L0",
+			"position": "Android Developer",
+			"startDate": "01-01-2017",
 			"endDate": "",
-			"description": "",
+			"description": "Developer for first version Lending Club Investor App. This was my first experience with fintech apps. I was involved in the whole process from design to implementation of app architecture.",
+			"link": "https://play.google.com/store/apps/details?id=com.lc.investorapp"
+		},
+		{
+			"companyName": "Close5",
+			"companyPhoto": "https://media.licdn.com/dms/image/C510BAQE4GpgZx1aT4g/company-logo_200_200/0?e=1544659200&v=beta&t=bLiNRV0g-r0JROHgxBSy9NTDEw5xJDoo07MuQ5kTDNI",
+			"position": "Android Developer",
+			"startDate": "01-01-2016",
+			"endDate": "01-12-2016",
+			"description": "Android developer in charge of implementing new functionalities and libs related to Analytics Tracking, Ads, Dependency Injection among others.",
+			"link": ""
+		},
+		{
+			"companyName": "Odigeo Apps",
+			"companyPhoto": "https://media.licdn.com/dms/image/C560BAQHXU_0H2_la5A/company-logo_200_200/0?e=1544659200&v=beta&t=ZkazT7VbfRStup8wytEKhHop6yFQdgRqHomLzvrSbZE",
+			"position": "Android Developer",
+			"startDate": "01-01-2015",
+			"endDate": "01-12-2015",
+			"description": "Here I maintained and developed new modules for Odigeo apps. I learned about VCS, team and time management, rules of good code and architectural patterns. I worked remotely with people from different countries and my performance helped my team to reach goals continuously.",
+			"link": "https://play.google.com/store/apps/details?id=com.edreams.travel"
+		},
+		{
+			"companyName": "Primer Nivel Group",
+			"companyPhoto": "https://media.licdn.com/dms/image/C4E0BAQF9GPCEzXGnsQ/company-logo_200_200/0?e=1544659200&v=beta&t=o2PNyoVhpW_IX5J21gVbVr_QKsHokLY_KVEUeKmaWvU",
+			"position": "Android Developer",
+			"startDate": "01-08-2017",
+			"endDate": "01-11-2017",
+			"description": "I worked on an internal Android App to make the process of gathering information for marketing campaigns easier and faster. Among others, I built a chat module to communicate app users.",
 			"link": ""
 		}
 	],
 	"education": [
 		{
-			"schoolName": "",
-			"title": "",
-			"startDate": "",
-			"endDate": ""
+			"schoolName": "Universidad Nacional Autonoma de Mexico UNAM",
+			"title": "Computation Engineering",
+			"startDate": "2009",
+			"endDate": "2014"
 		}
 	],
 	"courses": [
 		{
-			"schoolName": "",
-			"title": "",
-			"startDate": "",
-			"endDate": "",
+			"schoolName": "Universidad Nacional Autonoma de Mexico UNAM",
+			"title": "Diplomado - Desarrollo de Aplicaciones Móviles",
+			"startDate": "2014",
+			"endDate": "2015",
 			"description": ""
 		}
 	],
 	"projects": [
 		{
-			"title": "",
-			"description": "",
-			"link": ""
+			"title": "Osom Android App",
+			"description": "I started working in this project from the scratch, implementing a new design on mobile Android App. Both my knowledge on platform and programming skills helped to get the project on record time.",
+			"link": "https://play.google.com/store/apps/details?id=com.mex.osom"
 		}
 	],
-	"skills": ["","",""],
-	"interests": ["","",""]
+	"skills": ["Android","Mobile Development","Mobile Apps","Java","React Native","Git","CSS","JavaScript","Python","HTML","UDK"],
+	"interests": ["Entrepreneurship","Design","Investment"]
 }
