@@ -1,0 +1,55 @@
+
+{
+	personalInfo: {
+		fullName: "Oscar Josue Alvarez Marquez",
+		photo: "https://anUrl.com",
+		description: "",
+		email: "oj.almz@gmail.com"
+	},
+	experience: [
+		{
+			companyName: "Globant",
+			companyPhoto: "",
+			position: "",
+			startDate: "",
+			endDate: "",
+			description: "",
+			link: ""
+		},
+		{
+			companyName: "Globant",
+			companyPhoto: "",
+			position: "",
+			startDate: "",
+			endDate: "",
+			description: "",
+			link: ""
+		}
+	],
+	education: [
+		{
+			schoolName: "",
+			title: "",
+			startDate: "",
+			endDate: ""
+		}
+	],
+	courses: [
+		{
+			schoolName: "",
+			title: "",
+			startDate: "",
+			endDate: "",
+			description: ""
+		}
+	],
+	projects: [
+		{
+			title: "",
+			description: "",
+			link: ""
+		}
+	],
+	skills: ["","",""],
+	interests: ["","",""]
+}
