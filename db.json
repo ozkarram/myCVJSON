@@ -1,55 +1,55 @@
 
 {
-	personalInfo: {
-		fullName: "Oscar Josue Alvarez Marquez",
-		photo: "https://anUrl.com",
-		description: "",
-		email: "oj.almz@gmail.com"
+	"personalInfo": {
+		"fullName": "Oscar Josue Alvarez Marquez",
+		"photo": "https://anUrl.com",
+		"description": "",
+		"email": "oj.almz@gmail.com"
 	},
-	experience: [
+	"experience": [
 		{
-			companyName: "Globant",
-			companyPhoto: "",
-			position: "",
-			startDate: "",
-			endDate: "",
-			description: "",
-			link: ""
+			"companyName": "Globant",
+			"companyPhoto": "",
+			"position": "",
+			"startDate": "",
+			"endDate": "",
+			"description": "",
+			"link": ""
 		},
 		{
-			companyName: "Globant",
-			companyPhoto: "",
-			position: "",
-			startDate: "",
-			endDate: "",
-			description: "",
-			link: ""
+			"companyName": "Globant",
+			"companyPhoto": "",
+			"position": "",
+			"startDate": "",
+			"endDate": "",
+			"description": "",
+			"link": ""
 		}
 	],
-	education: [
+	"education": [
 		{
-			schoolName: "",
-			title: "",
-			startDate: "",
-			endDate: ""
+			"schoolName": "",
+			"title": "",
+			"startDate": "",
+			"endDate": ""
 		}
 	],
-	courses: [
+	"courses": [
 		{
-			schoolName: "",
-			title: "",
-			startDate: "",
-			endDate: "",
-			description: ""
+			"schoolName": "",
+			"title": "",
+			"startDate": "",
+			"endDate": "",
+			"description": ""
 		}
 	],
-	projects: [
+	"projects": [
 		{
-			title: "",
-			description: "",
-			link: ""
+			"title": "",
+			"description": "",
+			"link": ""
 		}
 	],
-	skills: ["","",""],
-	interests: ["","",""]
+	"skills": ["","",""],
+	"interests": ["","",""]
 }
